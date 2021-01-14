@@ -1,5 +1,5 @@
 # Materials
-Introduction to Computing and programming 
-Basic syntax of Python
-Introduction to Graphic User Interface(GUI)
-Learning about lists and dictionaries 
+1. Introduction to Computing and programming 
+2. Basic syntax of Python
+3. Introduction to Graphic User Interface(GUI)
+4. Learning about lists and dictionaries 
